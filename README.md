@@ -12,3 +12,6 @@ update: 2021.10.16
 
 update: 2021.10.16
 更新第九题写法，complete
+
+update: 2021.10.16
+更新第一题写法，complete
